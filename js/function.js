@@ -18,7 +18,7 @@ function renderPosts(array, element = elCards) {
 						<div class="d-flex justify-content-between align-itms-center">
 							<a class="card-text text-decoration-none" href="#">${data.email}</a>
 							<div>
-								<a href="https://github.com/MadrimovS"target="_blank"><img src="./icon/github.png" alt="github"></a>
+								<a href="https://github.com/MadrimovS/Data-posts"target="_blank"><img src="./icon/github.png" alt="github"></a>
 								<a href="" target="_blank"><img src="./icon/netlify.png" alt="netlify"></a>
 							</div>
 						</div>
