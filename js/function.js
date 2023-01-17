@@ -19,7 +19,7 @@ function renderPosts(array, element = elCards) {
 							<a class="card-text text-decoration-none" href="#">${data.email}</a>
 							<div>
 								<a href="https://github.com/MadrimovS/Data-posts"target="_blank"><img src="./icon/github.png" alt="github"></a>
-								<a href="" target="_blank"><img src="./icon/netlify.png" alt="netlify"></a>
+								<a href="https://3-imtihon-js.netlify.app/" target="_blank"><img src="./icon/netlify.png" alt="netlify"></a>
 							</div>
 						</div>
 						<button
